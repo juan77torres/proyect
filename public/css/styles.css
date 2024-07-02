@@ -218,7 +218,10 @@ footer{
     margin: 0px;
     align-items: center;
 }
+.i:hover{
+    color: rgb(1, 1, 83);
 
+}
 
 @media (min-width: 361px){
     .article-info h4{
